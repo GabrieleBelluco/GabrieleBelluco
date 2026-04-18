@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d0a66&height=220&section=header&text=Gabriele%20Belluco&fontSize=62&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20%C2%B7%20React&descAlignY=58&descSize=18&descColor=a78bfa" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:33000f,100:660a0a&height=220&section=header&text=Gabriele%20Belluco&fontSize=62&fontColor=f87171&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20%C2%B7%20React&descAlignY=58&descSize=18&descColor=fca5a5" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=const+developer+%3D+new+GabrieleBelluco();+%F0%9F%91%8B;developer.stack+%3D+%5B'Java'%2C+'Spring'%2C+'React'%5D;developer.passion+%3D+'Clean+%26+Testable+Code+%E2%9C%A8';developer.mindset+%3D+'Always+learning...+%F0%9F%9A%80')](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=const+developer+%3D+new+GabrieleBelluco();+%F0%9F%91%8B;developer.stack+%3D+%5B'Java'%2C+'Spring'%2C+'React'%5D;developer.passion+%3D+'Clean+%26+Testable+Code+%E2%9C%A8';developer.mindset+%3D+'Always+learning...+%F0%9F%9A%80')](https://git.io/typing-svg)
 
 </div>
 
@@ -70,21 +70,19 @@ Sono un Full-Stack Developer con una formazione solida e una passione per la scr
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bellucogabriele0-create&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a855f7&icon_color=c084fc&text_color=e2d9f3&hide_border=false&rank_icon=github" alt="GitHub Stats">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bellucogabriele0-create&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=dc2626&title_color=ef4444&icon_color=f87171&text_color=fecaca&hide_border=false&rank_icon=github" alt="GitHub Stats">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellucogabriele0-create&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a855f7&text_color=e2d9f3&hide_border=false" alt="Top Languages">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellucogabriele0-create&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=dc2626&title_color=ef4444&text_color=fecaca&hide_border=false" alt="Top Languages">
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bellucogabriele0-create&theme=tokyonight&background=0d0d0d&border=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=a855f7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bellucogabriele0-create&theme=tokyonight&background=0d0d0d&border=dc2626&ring=ef4444&fire=f87171&currStreakLabel=ef4444)](https://git.io/streak-stats)
 
 </div>
 
-
 ---
-
 
 <div align="center">
 
@@ -98,12 +96,9 @@ Sono un Full-Stack Developer con una formazione solida e una passione per la scr
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GabrieleBelluco&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=GabrieleBelluco&style=for-the-badge&color=dc2626&label=PROFILE+VIEWS" alt="Profile Views">
 
-<br><br>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a66,50:1a0533,100:0d0d0d&height=120&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:660a0a,50:33000f,100:0d0d0d&height=120&section=footer" width="100%">
 
 </div>
